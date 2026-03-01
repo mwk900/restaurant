@@ -1,7 +1,6 @@
 const navLinks = [
   { label: "Menu", href: "#menu" },
   { label: "Our Story", href: "#story" },
-  { label: "Gallery", href: "#gallery" },
   { label: "Book a Table", href: "#book" },
   { label: "Find Us", href: "#find-us" },
 ];

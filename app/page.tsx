@@ -2,7 +2,6 @@ import Header from "./components/Header";
 import Hero from "./components/Hero";
 import About from "./components/About";
 import MenuHighlights from "./components/MenuHighlights";
-import Gallery from "./components/Gallery";
 import Booking from "./components/Booking";
 import Testimonials from "./components/Testimonials";
 import FindUs from "./components/FindUs";
@@ -17,7 +16,6 @@ export default function Home() {
         <Hero />
         <About />
         <MenuHighlights />
-        <Gallery />
         <Booking />
         <Testimonials />
         <FindUs />
